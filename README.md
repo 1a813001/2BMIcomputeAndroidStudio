@@ -1,2 +1,2 @@
 # 2BMIcomputeAndroidStudio
-This project can calculate BMI value, and can determine BMI value and body position
+Þetta verkefni getur reiknað BMI gildi og getur ákvarðað BMI gildi og líkamsstöðu
